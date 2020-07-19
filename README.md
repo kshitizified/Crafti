@@ -11,3 +11,5 @@ This is a team project and our team consists of 4 members:
 © 2020 Team CRAFTI - All rights reserved
 
 Screenshots of our product: 
+
+![image](https://github.com/kshitizified/Crafti/blob/master/Crafti/screenshots/signup.jpg)
