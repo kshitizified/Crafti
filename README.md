@@ -13,3 +13,15 @@ This is a team project and our team consists of 4 members:
 Screenshots of our product: 
 
 ![image](https://github.com/kshitizified/Crafti/blob/master/Crafti/screenshots/signup.jpg)
+
+![image](https://github.com/kshitizified/Crafti/blob/master/Crafti/screenshots/login.jpg)
+
+![image](https://github.com/kshitizified/Crafti/blob/master/Crafti/screenshots/dashboard.png)
+
+![image](https://github.com/kshitizified/Crafti/blob/master/Crafti/screenshots/rent.jpg)
+
+![image](https://github.com/kshitizified/Crafti/blob/master/Crafti/screenshots/rent_2.png)
+
+![image](https://github.com/kshitizified/Crafti/blob/master/Crafti/screenshots/userprofile.png)
+
+![image](https://github.com/kshitizified/Crafti/blob/master/Crafti/screenshots/wheather_hindi.png)
